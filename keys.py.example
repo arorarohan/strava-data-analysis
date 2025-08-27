@@ -1,0 +1,10 @@
+# Strava API Keys and Tokens
+# IMPORTANT: Do not commit this file to version control!
+# Copy this file to keys.py and fill in your actual credentials
+
+# Strava App Credentials - Get these from https://www.strava.com/settings/api
+CLIENT_ID = "YOUR_CLIENT_ID_HERE"
+CLIENT_SECRET = "YOUR_CLIENT_SECRET_HERE"
+
+# Strava API Access Token - Get this by running strava_oauth.py
+STRAVA_API_TOKEN = "YOUR_ACCESS_TOKEN_HERE"

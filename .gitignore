@@ -1,0 +1,23 @@
+# Sensitive API keys and tokens
+keys.py
+
+# Generated token files
+strava_tokens.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+claud-coding-env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
